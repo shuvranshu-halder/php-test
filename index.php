@@ -253,7 +253,7 @@ Most people infected with the COVID-19 virus will experience mild to moderate re
 				    </div>
 				  </div>
 				  <div class="form-group">
-				    <label for="exampleFormControlTextarea1">Example textarea</label>
+				    <label for="exampleFormControlTextarea1">Extra symbolls</label>
 				    <textarea class="form-control" name="msg" id="exampleFormControlTextarea1" rows="3"></textarea>
 				  </div>
 				  <button type="submit" class="btn btn-primary mb-2" name="submit">submit</button>
